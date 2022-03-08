@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Route;
 //Route::get('chk/{id}', 'BkashController@chk')->name('chk');
 //
 
-Route::get('/', function ($id){
+Route::get('/', function (){
     return view('bkash-payment');
 });
 

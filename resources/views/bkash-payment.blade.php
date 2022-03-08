@@ -10,6 +10,7 @@
 </head>
 <body>
 
+
 {{--<a href="{{route('chk',request('id'))}}" class="btn btn-primary"> click</a>--}}
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"
