@@ -2,8 +2,7 @@
 Full Project Bkash intregation using laravel.
 New bKash Payment Gateway API for Laravel Framework. Specially for bKash Tokenized Checkout.
 
-![bkash-payment](https://user-images.githubusercontent.com/30390432/90474593-6fa17000-e147-11ea-85d8-4702c6fa6a1d.png)
-![bkash-tokenized-payment](https://user-images.githubusercontent.com/30390432/90474602-7334f700-e147-11ea-8e4e-6d93ac1d25dc.png)
+![bkash-payment](bkash_payment_logo.png)
 
 ## Laravel Framework
 You can easily use it for your laravel framework project.
